@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samy Chabbi</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: samy.frontdev@gmail.com</h3>
 <p align="left">
 </p>
 

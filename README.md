@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Samy Chabbi</h1>
+<h1 align="center">Hi 👋, I'm Samy </h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 

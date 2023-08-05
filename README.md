@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next js and Typescript**
 
-- 📫 How to reach me **sam_ch@outlook.fr**
+- 📫 How to reach me **samy_ch@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

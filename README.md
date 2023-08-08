@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Next js and Typescript**
 
 - 📫 How to reach me **samy_ch@outlook.fr**
-(https://github-readme-stats.vercel.app/api?Samy572=Samy572&show_icons=true&theme=radical&token=PAT_1)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

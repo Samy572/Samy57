@@ -16,4 +16,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samy572&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height='300'>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samy572&theme=gruvbox)](https://git.io/streak-stats)
+

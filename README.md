@@ -16,4 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samy572&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height='300'>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samy572&theme=dark" alt="samy572" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samy572&theme=dark" alt="samy572" /></p> -->
+
+
+

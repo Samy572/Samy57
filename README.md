@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samy</h1>
 <h3 align="center">A passionate frontend developer from France</h3><br>
 
-- 🌱 I’m currently learning **Next js and Typescript**
+- 🌱 I’m currently learning **Server Actions in Next js**
 
 - 📫 How to reach me **samy_ch@outlook.fr**
 
